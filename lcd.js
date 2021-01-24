@@ -1,9 +1,9 @@
 const Lcd = require("lcd");
 
 const config = {
-    rs: 14,
-    e: 15,
-    data: [4, 17, 22, 27],
+    rs: 20,
+    e: 21,
+    data: [4, 17, 27, 22],
     cols: 16,
     rows: 2
 }
